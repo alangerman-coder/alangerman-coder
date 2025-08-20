@@ -3,6 +3,7 @@
 Welcome to my GitHub!  
 Industrial Engineer | Aspiring Data Scientist | Problem Solver | Mountain Cyclist 🚴
 
+![ImageAlt](https://github.com/alangerman-coder/alangerman-coder/blob/4eb55e40147bace199308bde4a7220a530b37505/ChatGPT%20Image%2019%20ago%202025%2C%2001_00_07%20p.m..png)
 ---
 
 ## 🚗 Automotive Industry Expert Meets Data Science 🚀
