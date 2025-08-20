@@ -3,7 +3,7 @@
 Welcome to my GitHub!  
 Industrial Engineer | Aspiring Data Scientist | Problem Solver | Mountain Cyclist 🚴
 
-![ImageAlt](https://github.com/alangerman-coder/alangerman-coder/blob/80e6607a5c9aefb1d7de24392069a0d4b9ea8f2b/Imagen%20de%20portada%20pa.png)
+![ImageAlt](https://github.com/alangerman-coder/alangerman-coder/blob/ad7ae29b4f6678fed19367bee93090b2d0ad263c/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 ---
 
 ## 🚗 Automotive Industry Expert Meets Data Science 🚀
