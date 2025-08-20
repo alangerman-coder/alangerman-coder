@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan German Durán!
+# 👋 Hi, I'm Alan Germán Durán!
 
 Welcome to my GitHub!  
 Industrial Engineer | Aspiring Data Scientist | Problem Solver | Mountain Cyclist 🚴
